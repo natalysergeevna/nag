@@ -1,0 +1,1 @@
+export type { Pokemon, PokemonResource, PokemonsPagination } from './pokemon'
